@@ -6,4 +6,4 @@ What I am working on right now.
 
 #2 Kernel
 
-Most of this code is going to be cobbled together from different sites and stackoverflow as I stumble through figuring it all out.
+Most of this code isn't mine and is from different sites. I am just working on figuring it all out and am making progress.
