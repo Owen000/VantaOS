@@ -1,4 +1,5 @@
 # VantaOS
+# Ok some more news, I am completely rewriting everything and following instructions from https://wiki.osdev.org/
 just me messing around with low-level code. Hopefully I will have a functioning OS.
 What I am working on right now.
 
